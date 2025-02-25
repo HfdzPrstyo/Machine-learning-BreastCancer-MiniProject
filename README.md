@@ -1,4 +1,4 @@
-# **Mini Project - Prediksi Kanker Payudara 🫀**  
+# **Mini Project - Breast Cancer 🫀**  
 
 ## **📌 Deskripsi**  
 Proyek ini bertujuan untuk menganalisis dan memprediksi jenis kanker payudara (**ganas atau jinak**) menggunakan dataset **Breast Cancer** dari `sklearn.datasets`. Dua model Machine Learning yang digunakan dalam prediksi ini:  
@@ -45,4 +45,5 @@ Dataset ini berisi berbagai fitur tumor seperti **ukuran, tekstur, simetri, dan 
 Berdasarkan hasil evaluasi:
 
 ✅ Logistic Regression memberikan akurasi yang lebih tinggi (95.61%), sehingga lebih efektif dalam memprediksi kanker payudara pada dataset ini.
+
 🌳 Decision Tree memiliki akurasi yang cukup baik (91.23%), tetapi cenderung lebih rentan terhadap overfitting.
