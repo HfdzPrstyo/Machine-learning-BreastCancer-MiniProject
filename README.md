@@ -41,4 +41,8 @@ Dataset ini berisi berbagai fitur tumor seperti **ukuran, tekstur, simetri, dan 
 📈 *Hasil ini bisa berbeda tergantung parameter yang digunakan.*  
 
 ---
+🔹 Kesimpulan
+Berdasarkan hasil evaluasi:
 
+✅ Logistic Regression memberikan akurasi yang lebih tinggi (95.61%), sehingga lebih efektif dalam memprediksi kanker payudara pada dataset ini.
+🌳 Decision Tree memiliki akurasi yang cukup baik (91.23%), tetapi cenderung lebih rentan terhadap overfitting.
